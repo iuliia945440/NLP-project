@@ -1,0 +1,6 @@
+bot/bot_token.py
+venv/ 
+__pycache__/ 
+*.csv
+.env
+.idea
